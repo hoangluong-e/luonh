@@ -1,0 +1,1 @@
+import MyTabs from './bottomTabs';

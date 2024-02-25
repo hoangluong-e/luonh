@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513946354789",
+    "project_id": "luonh-32aaf",
+    "storage_bucket": "luonh-32aaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513946354789:android:d8b9b85ec166825d3ab28c",
+        "android_client_info": {
+          "package_name": "com.luonh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaZzep9LgavENfqFO8bSpSrWm_fYjuPpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
